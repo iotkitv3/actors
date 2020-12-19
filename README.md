@@ -439,7 +439,7 @@ Das Beispiel verwendet die Verbauten LEDs und den Zufallsgenerator vom Board.
                 led[i] = ( (r % (i+2) ) != 0 ) ? 1 : 0;
             }
                 
-            thread_sleep_for( 0.2f );          
+            thread_sleep_for( 200 );          
         }
     }
     
@@ -518,7 +518,7 @@ mittels Encoder vor-, rückwärts Laufen lassen und zu stoppen.
 
 <details><summary>Lösung</summary>  
 
-    /** Servo nach links oder rechts bewegen mittels Encoder.
+    /** /** Motor nach vorwärts oder rückwärts bewegen mittels Encoder.
     */
     
     #include "mbed.h"
