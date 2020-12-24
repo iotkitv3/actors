@@ -2,7 +2,7 @@ Aktoren
 -------
 ***
 
-> [⇧ **Home**](https://github.com/iotkitv4/intro)
+> [⇧ **Home**](https://github.com/iotkitv3/intro)
 
 
 Aktoren (Wandler; Antriebselemente) setzen die elektronischen Signale in mechanische Bewegung oder andere physikalische Grössen um und greifen damit aktiv in die Umgebung des eingebetteten Systems ein.
@@ -36,7 +36,7 @@ Aktoren (Wandler; Antriebselemente) setzen die elektronischen Signale in mechani
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/Motor.png) 
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/Motor.png) 
 
 [Motoren](http://de.wikipedia.org/wiki/Elektromotor)
 
@@ -70,7 +70,7 @@ Das [Beispiel](main.cpp) bewegt 2 DC Motoren vorwärts und rückwärts.
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/ServoOpen.png) ![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/ServoSignal.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/ServoOpen.png) ![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/ServoSignal.png)
 
 [http://wiki.rc-network.de/Servo](http://wiki.rc-network.de/Servo)
 
@@ -139,13 +139,13 @@ Das Beispiel bewegt 4 Servos.
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/Stepper.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/Stepper.png)
 
 [Schrittmotor](http://de.wikipedia.org/wiki/Schrittmotor)
 
 - - - 
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/StepperWiring.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/StepperWiring.png)
 
 Ansteuerung Schrittmotor
 
@@ -239,13 +239,13 @@ Das Beispiel bewegt 2 Schrittmotoren vorwärts und rückwärts.
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/DoorOpener.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/DoorOpener.png)
 
 [Elektromagnetischer Türöffner](http://de.wikipedia.org/wiki/T%C3%BCrschloss)
 
 - - -
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/DoorOpenerWiring.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/DoorOpenerWiring.png)
 
 [Leistungsstufe (MOSFET o.ä.)](http://developer.mbed.org/users/4180_1/notebook/relays1/)
 
@@ -300,13 +300,13 @@ Das Beispiel öffnet den Türschliesser beim Druck auf den Button.
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/LEDStripsTreppe.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/LEDStripsTreppe.png)
 
 [Beispiel Treppenbeleuchtung](http://developer.mbed.org/users/4180_1/notebook/relays1/)
 
 - - - 
 
- ![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/actors/LedStrips12V.png) |
+ ![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/actors/LedStrips12V.png) |
 
 [RGB LED Strip, siehe Wiki LadyAda](http://www.ladyada.net/wiki/products/ledstrip/index.html) 
 
